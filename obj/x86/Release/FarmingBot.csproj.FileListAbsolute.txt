@@ -1,0 +1,7 @@
+C:\Users\Dotan ghay\Documents\Visual Studio 2010\Projects\FarmingBot\FarmingBot\bin\Release\FarmingBot.exe
+C:\Users\Dotan ghay\Documents\Visual Studio 2010\Projects\FarmingBot\FarmingBot\bin\Release\FarmingBot.pdb
+C:\Users\Dotan ghay\Documents\Visual Studio 2010\Projects\FarmingBot\FarmingBot\obj\x86\Release\FarmingBot.Form1.resources
+C:\Users\Dotan ghay\Documents\Visual Studio 2010\Projects\FarmingBot\FarmingBot\obj\x86\Release\FarmingBot.Properties.Resources.resources
+C:\Users\Dotan ghay\Documents\Visual Studio 2010\Projects\FarmingBot\FarmingBot\obj\x86\Release\FarmingBot.csproj.GenerateResource.Cache
+C:\Users\Dotan ghay\Documents\Visual Studio 2010\Projects\FarmingBot\FarmingBot\obj\x86\Release\FarmingBot.exe
+C:\Users\Dotan ghay\Documents\Visual Studio 2010\Projects\FarmingBot\FarmingBot\obj\x86\Release\FarmingBot.pdb
